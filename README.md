@@ -7,7 +7,7 @@ The code is designed for the collection, preprocessing, and spatiotemporal analy
 
 ---
 
-## Abstract
+## Intoduction
 
 Global warming is one of the major challenges facing humanity in the 21st century. According to the report “Climate Change 2022: Impacts, Adaptation and Vulnerability” by the Intergovernmental Panel on Climate Change (IPCC), the Earth could warm by 1.5 °C between 2021 and 2040 under a moderate scenario (IPCC, 2022). Climate change is being felt around the world, manifesting itself, among other things, in an increase in the frequency of extreme weather events and anomalies that are noticeable to everyone. The economic damage from global warming will only increase in the coming years and, according to researchers, could reach $38 trillion per year (Kotz M., 2024).
 
