@@ -57,8 +57,8 @@ The higher the frequency of climate anomalies, the more people believe that glob
 
 ## Contacts
 
-Name: Alexandra Kaluzhak
+**Name**: Alexandra Kaluzhak
 
-Email: likhechman@gmail.com
+**Email**: likhechman@gmail.com
 
-University: National Research University Higher School of Economic (2022-2026)
+**University**: National Research University Higher School of Economic (2022-2026)
