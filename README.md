@@ -1,7 +1,7 @@
 # Climate Anomalies as a Factor in Changing Public Attitudes Toward Global Warming
 
 This repository contains the Python source code used in the coursework  
-**"Climate Anomalies as a Factor in Changing Public Attitudes Toward Global Warming"**.
+[**"Climate Anomalies as a Factor in Changing Public Attitudes Toward Global Warming"**](https://docs.google.com/document/d/1gL98R0HXJjHwQIvnr44L13qN0i-b91D2rTjSZ0JguEE/edit?usp=sharing).
 
 The code is designed for the collection, preprocessing, and spatiotemporal analysis of social media data and climate anomalies. The main objective is to assess how the frequency of climate anomalies influences public attitudes toward global warming.
 
